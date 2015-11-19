@@ -1,7 +1,7 @@
 {
     "bootstrap" : true,
     "server" : true,
-    "datacenter" : "aws-tutorial-series",
+    "datacenter" : "Paylater",
     "data_dir" : "/tmp/consul",
     "ui_dir" : "/root/dist",
     "encrypt" : "__ENCRYPT__",
