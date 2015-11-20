@@ -11,7 +11,7 @@ wget https://dl.bintray.com/mitchellh/consul/0.5.2_linux_amd64.zip
 unzip 0.5.2_linux_amd64.zip
 rm -f 0.5.2_linux_amd64.zip
 mv consul /usr/bin/
-git clone https://github.com/berry2012/consul_config.git
+git clone https://github.com/berry2012/consul_demo.git
 ```
 # make sure it has execute access. 
 chmod -R 775 /root/scripts should do it!
