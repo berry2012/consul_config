@@ -14,8 +14,8 @@ mv consul /usr/bin/
 git clone https://github.com/berry2012/consul_demo.git
 ```
 # make sure it has execute access. 
-chmod -R 775 /root/scripts should do it!
-
+chmod -R 775 /root/consul_demo/scripts should do it!
+chmod -R 775 /root/consul_demo/setup.sh
 ```
 # Bootstrap / Web UI Server
 ---------------------------
